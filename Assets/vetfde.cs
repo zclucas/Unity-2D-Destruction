@@ -1,4 +1,0 @@
-dedede
-	fifjwf
-
-	fwpojfp
