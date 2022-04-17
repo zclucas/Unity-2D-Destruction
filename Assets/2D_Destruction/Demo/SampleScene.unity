@@ -553,7 +553,11 @@ MonoBehaviour:
   fragmentLayer: Default
   sortingLayerName: Default
   orderInLayer: 0
+<<<<<<< HEAD
   Parent: {fileID: 0}
+=======
+  Parent: {fileID: 1515726957}
+>>>>>>> 61ed95c (dehdeu)
   shatterType: 1
   fragments: []
 --- !u!50 &1047904890
